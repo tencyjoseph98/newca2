@@ -1,0 +1,11 @@
+sklearn
+pandas
+matplotlib
+numpy
+openpyxl
+imblearn
+smote-variants
+tensorflow
+keras
+flask
+gunicorn
