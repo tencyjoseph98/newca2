@@ -1,11 +1,5 @@
-sklearn
-pandas
-matplotlib
+streamlit
 numpy
-openpyxl
-imblearn
-smote-variants
 tensorflow
-keras
-flask
-gunicorn
+scikit-learn
+pandas
