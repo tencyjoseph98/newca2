@@ -2,3 +2,5 @@ flask
 gunicorn
 numpy
 tensorflow
+sklearn
+pandas
