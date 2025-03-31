@@ -1,5 +1,4 @@
-flask
-gunicorn
+streamlit
 numpy
 tensorflow
 scikit-learn
